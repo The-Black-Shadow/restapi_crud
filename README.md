@@ -144,7 +144,7 @@ Before you begin, ensure you have the following installed:
 <details>
 <summary>🔧 <strong>Click to expand setup instructions</strong></summary>
 
-1. **Create Account**: Go to [MockAPI.io](https://mockapi.io) and sign in with your GitHub account
+1. **Create Account**: Go to [MockAPI.io](https://mockapi.io) and sign in with your  account
 2. **New Project**: Create a New Project 
 3. **Add Resource**: Add a New Resource and name it `posts`
 4. **Define Schema**: Set up the following fields:
@@ -229,10 +229,10 @@ flutter run
 
 **Contributions are what make the open-source community such an amazing place to learn, inspire, and create!**
 
-[![Contributors](https://img.shields.io/github/contributors/yourusername/yourrepo?style=for-the-badge)](https://github.com/yourusername/yourrepo/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=for-the-badge)](https://github.com/yourusername/yourrepo/network/members)
-[![Stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=for-the-badge)](https://github.com/yourusername/yourrepo/stargazers)
-[![Issues](https://img.shields.io/github/issues/yourusername/yourrepo?style=for-the-badge)](https://github.com/yourusername/yourrepo/issues)
+[![Contributors](https://img.shields.io/github/contributors/yourusername/restapi_crud?style=for-the-badge)](https://github.com/The-Black-Shadow/restapi_crud/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/The-Black-Shadow/restapi_crud?style=for-the-badge)](https://github.com/The-Black-Shadow/restapi_crud/network/members)
+[![Stars](https://img.shields.io/github/stars/The-Black-Shadow/restapi_crud?style=for-the-badge)](https://github.com/The-Black-Shadow/restapi_crud/stargazers)
+[![Issues](https://img.shields.io/github/issues/The-Black-Shadow/restapi_crud?style=for-the-badge)](https://github.com/yourusername/restapi_crud/issues)
 
 </div>
 
