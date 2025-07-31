@@ -162,10 +162,10 @@ Before you begin, ensure you have the following installed:
 
 ```bash
 # 📥 Clone the repository
-git clone https://github.com/<your-github-username>/<your-repo-name>.git
+git clone https://github.com/The-Black-Shadow/restapi_crud.git
 
 # 📂 Navigate to project directory  
-cd <your-repo-name>
+cd restapi_crud
 ```
 
 #### **Step 3: Update API Configuration**
