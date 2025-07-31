@@ -9,7 +9,7 @@
 
 **A robust, production-ready Flutter application demonstrating full CRUD operations with Clean Architecture**
 
-[📱 Live Demo](#screenshots) • [🏗️ Architecture](#architecture) • [🚀 Getting Started](#getting-started) • [🤝 Contributing](#contributing)
+[📱 Live Demo](#-screenshots) • [🏗️ Architecture](#️-architecture) • [🚀 Getting Started](#-getting-started) • [🤝 Contributing](#-contributing)
 
 </div>
 
