@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart';
-import 'package:restapi_crud/presentation/bloc/bloc/post_bloc.dart';
+import 'package:restapi_crud/presentation/bloc/post_bloc.dart';
 import 'add_edit_post_screen.dart';
 
 class PostListScreen extends StatelessWidget {

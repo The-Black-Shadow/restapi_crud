@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:restapi_crud/domain/repositories/post_repository.dart';
-import 'package:restapi_crud/presentation/bloc/bloc/post_bloc.dart';
+import 'package:restapi_crud/presentation/bloc/post_bloc.dart';
 import 'package:restapi_crud/presentation/ui/screens/post_list_screen.dart';
 
 class MyApp extends StatelessWidget {
