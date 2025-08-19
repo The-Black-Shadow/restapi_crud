@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "createdAt": "2024-07-27T10:00:00.000Z",
+    "title": "Mock Post from Local JSON",
+    "body": "This data is being loaded from a local assets/posts.json file, not from the internet. It's perfect for UI development before the API is ready."
+  },
+  {
+    "id": "2",
+    "createdAt": "2024-07-27T11:00:00.000Z",
+    "title": "Offline Development is Easy",
+    "body": "By using a mock repository, we can build and test the entire application without needing an active internet connection."
+  },
+  {
+    "id": "3",
+    "createdAt": "2024-07-27T12:00:00.000Z",
+    "title": "Flutter and JSON",
+    "body": "Flutter makes it easy to work with JSON data, allowing for quick prototyping and development."
+  }
+]
