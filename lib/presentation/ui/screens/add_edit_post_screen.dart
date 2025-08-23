@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:restapi_crud/data/models/post_model.dart';
-import 'package:restapi_crud/presentation/bloc/post_bloc.dart';
+import 'package:restapi_crud/presentation/bloc/post/post_bloc.dart';
 
 class AddEditPostScreen extends StatefulWidget {
   final Post? post;

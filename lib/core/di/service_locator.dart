@@ -9,7 +9,7 @@ final sl = GetIt.instance; // sl stands for Service Locator
 
 void setupLocator() {
   // Use 'true' to use the real API, 'false' to use the mock JSON file.
-  const bool useApi = false;
+  const bool useApi = true;
 
   // Register services
   sl.registerLazySingleton<Dio>(() => Dio());

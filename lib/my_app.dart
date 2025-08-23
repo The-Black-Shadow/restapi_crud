@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:restapi_crud/core/di/service_locator.dart';
 import 'package:restapi_crud/domain/repositories/post_repository.dart';
-import 'package:restapi_crud/presentation/bloc/post_bloc.dart';
+import 'package:restapi_crud/presentation/bloc/post/post_bloc.dart';
+import 'package:restapi_crud/presentation/bloc/search/search_bloc.dart';
 import 'package:restapi_crud/presentation/ui/screens/post_list_screen.dart';
 
 class MyApp extends StatelessWidget {
@@ -10,8 +11,13 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return BlocProvider(
-      create: (context) => PostBloc(postRepository: sl<PostRepository>()),
+    return MultiBlocProvider(
+      providers: [
+        BlocProvider(
+          create: (context) => PostBloc(postRepository: sl<PostRepository>()),
+        ),
+        BlocProvider(create: (context) => SearchBloc()),
+      ],
       child: MaterialApp(
         title: 'Flutter CRUD MockAPI',
         theme: ThemeData(
